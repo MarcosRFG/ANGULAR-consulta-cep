@@ -1,0 +1,20 @@
+.card{
+    background:#17a2b8;
+    border: 1px;
+}
+
+.card-body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.positionRight{
+    float: right;
+}
